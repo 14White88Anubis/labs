@@ -1,0 +1,3 @@
+﻿  textredactor.cpp
+C:\Users\Анатолий\source\repos\textredactor\textredactor.cpp(26,23): warning C4018: <=: несоответствие типов со знаком и без знака
+  textredactor.vcxproj -> C:\Users\Анатолий\source\repos\textredactor\Debug\textredactor.exe
